@@ -22,10 +22,10 @@
 Below is a visual representation of changing some of the variables.
 
 ## curve_r_demo
-![](https://raw.githubusercontent.com/AaronVerDow/StandingDesk/master/animations/output/curve_r_demo.gif)
+![](https://raw.githubusercontent.com/AaronVerDow/Standing_Desk/master/animations/output/curve_r_demo.gif)
 ## explode_demo
-![](https://raw.githubusercontent.com/AaronVerDow/StandingDesk/master/animations/output/explode_demo.gif)
+![](https://raw.githubusercontent.com/AaronVerDow/Standing_Desk/master/animations/output/explode_demo.gif)
 ## slide_angle_demo
-![](https://raw.githubusercontent.com/AaronVerDow/StandingDesk/master/animations/output/slide_angle_demo.gif)
+![](https://raw.githubusercontent.com/AaronVerDow/Standing_Desk/master/animations/output/slide_angle_demo.gif)
 ## slide_demo
-![](https://raw.githubusercontent.com/AaronVerDow/StandingDesk/master/animations/output/slide_demo.gif)
+![](https://raw.githubusercontent.com/AaronVerDow/Standing_Desk/master/animations/output/slide_demo.gif)
